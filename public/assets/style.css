@@ -1,0 +1,4 @@
+body { font-size: 0.95rem; }
+.card { border: none; border-radius: 12px; }
+.stat-card { background: linear-gradient(180deg, #fff, #f7fbff); }
+.table td, .table th { vertical-align: middle; }
